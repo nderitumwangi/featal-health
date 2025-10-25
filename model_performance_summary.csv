@@ -1,0 +1,4 @@
+model,macro_precision,macro_recall,macro_f1,recall_class3
+GradientBoosting,0.8835,0.8728,0.8779,0.8857
+RandomForest,0.906,0.8429,0.8696,0.8857
+LogisticRegression,0.7406,0.8497,0.7798,0.8571
